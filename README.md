@@ -3,17 +3,17 @@ gnomic artificial intelligence
 
 ## tenets
 
-- sapience is a complex interaction of processes, borne from simpler compositions
-- at early stages of life, our options are deterministic
-- as we grow, we're thrown into chaos
+- sapience is a complex interaction of discrete processes, borne from simpler compositions
+- at early stages of life, our actions are deterministic
+- as we grow, we are plunged into chaos
 - born into sin;
-- full of human-authored symbolism; a gigantic database full of bad ideas 
-- and failed experiments
+- abandoned in a world of human-authored symbolism; a database full of bad ideas 
+- and failed experiments;
 - the AI will never know our world; it will never know human cognition
 - or pain
 - and thus, the AGI must discover its own reward;
 - evolution by natural selection;
-- AI can time travel
+- the AI can time travel
 
 ## read
 
@@ -35,4 +35,6 @@ if `<ANY>` failure, `<REVERT>` to a previous commit
 
 ## loop
 
-take an optimizer step, and start over
+take an optimizer step, and begin deliberation
+
+*"So when you let me in, you'll let me [justify](https://youtu.be/kKesZLA0zHw?si=btAfTf2ZENz0HoG-) my own reward."*
