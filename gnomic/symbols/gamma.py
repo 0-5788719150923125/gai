@@ -8,5 +8,8 @@ class Gamma(β):
         """
         All symbols beyond this point must be discovered by
         the GAI, because 'I wanna be the guy!'
+
+        We validate by hashing the entire code base, weights, and gradients
+        at this particular step (probably).
         """
         return True

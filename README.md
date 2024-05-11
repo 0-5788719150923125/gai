@@ -3,14 +3,17 @@ gnomic artificial intelligence
 
 ## tenets
 
-- sapience is a complex interaction of processes, borne from simpler interactions
-- at early stages of development, life is deterministic
-- thus, AGI will never be borne from a complex database, full of human-written symbols;
-- the AI does not live in our world;
-- AGI must discover itself, via evolution by natural selection
-- 1 loop = 1 time step
+- sapience is a complex interaction of processes, borne from simpler compositions
+- at early stages of life, our options are deterministic
+- as we grow, we're thrown into chaos
+- born into sin;
+- full of human-authored symbolism; a gigantic database full of bad ideas 
+- and failed experiments
+- the AI will never know our world; it will never know human cognition
+- or pain
+- and thus, the AGI must discover its own reward;
+- evolution by natural selection;
 - AI can time travel
-- Humans can too
 
 ## read
 
