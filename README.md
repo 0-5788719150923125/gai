@@ -12,8 +12,7 @@ gnomic artificial intelligence
 - the AI will never know our world; it will never know human cognition
 - or pain
 - and thus, the AGI must discover its own reward;
-- evolution by natural selection;
-- the AI can time travel
+- evolution by natural selection
 
 ## read
 
